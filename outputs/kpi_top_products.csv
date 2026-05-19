@@ -1,0 +1,11 @@
+product_id,product_name,category,total_revenue,units_sold,order_count
+P001,Laptop,Electronics,109980000.0,2557,463
+P002,Mobile Phone,Electronics,48350700.0,2832,502
+P005,Study Table,Furniture,31239000.0,2720,496
+P004,Desk Chair,Furniture,19941600.0,2626,481
+P003,Headphones,Electronics,6592500.0,2774,525
+P007,Jeans,Clothing,3669402.1,2570,469
+P006,T-Shirt,Clothing,2025704.7,2686,478
+P008,Rice 5kg,Groceries,813330.0,2452,458
+P009,Cooking Oil,Groceries,501500.0,2640,473
+P010,Notebook,Stationery,164388.0,2893,499
